@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Melius inquirendum: or A further modest and impartial enquiry into the lawfulness of taking the new oath of allegeance. By a divine of the Church of England</title>
+            <author>Divine of the Church of England.</author>
+         </titleStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26744</idno><idno type="EEBO-CITATION">99829073</idno>
+  <idno type="VID">33509</idno>
+  <idno type="EEBO-PROQUEST">2240869784</idno>
+  
+            <idno type="STC">Wing M1647</idno>
+            <idno type="STC">ESTC R217406</idno>
+            <idno type="PROQUEST">99829073</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829073e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33509)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1973:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Melius inquirendum: or A further modest and impartial enquiry into the lawfulness of taking the new oath of allegeance. By a divine of the Church of England</title>
+                  <author>Divine of the Church of England.</author>
+                  <author>Melish, Stephen, attributed name.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Jonathan Robinson; and are to be sold by Clement Elis bookseller in Mansfield in Nottinghamshire,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing attributes authorship to Stephen Melish.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Kings and rulers --  Succession --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33509:1"/>
+            <pb facs="tcp:33509:1"/>
+            <p>
+               <hi>Melius Inquirendum:</hi> Or a further Modest and Impartial ENQUIRY INTO The Lawfulness Of Taking <hi>The New Oath</hi> OF ALLEGEANCE.</p>
+            <p>By a Divine of the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jonathan Robinson;</hi> and are to be Sold by <hi>Clement Elis</hi> Bookseller in <hi>Mansfield</hi> in <hi>Nottinghamshire.</hi> 1689.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33509:2"/>
+            <pb facs="tcp:33509:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>THE general</hi> Alarm <hi>occasion'd by the new</hi> OATH <hi>of</hi> AL<g ref="char:EOLhyphen"/>LEGEANCE <hi>gave me no rest, till I got it, and had examined, as well as I could, the</hi> evil <hi>which I perceived many apprehended to be in it. My Head has been long too weak for a task of this moment, I was therefore forced to take the help of my Pen, and perhaps</hi> this <hi>too may be too little. How<g ref="char:EOLhyphen"/>ever what my thoughts are upon the best enquiry and most serious deliberation I could use, I here make bold to publish to the World; not confiding so much in my own judgement, as to hope it shall give full satisfaction to those who need it, or so much as to suppose that I my self may not hereafter meet with reason enough to change my mind; but earnestly desiring that any good Christian that discerns my</hi> Errors (<hi>if such there be) would be so charitable to me as to let me know them, even as</hi> publickly <hi>as I expose them. And there<g ref="char:EOLhyphen"/>fore would I have it so, that</hi> others, <hi>if under the same</hi> mistakes, <hi>may with me have the benefit of so</hi> seasonable a Charity. <hi>I shall ever account it a happy publication of my</hi> weakness <hi>and</hi> ignorance, <hi>which may prevent a</hi> Crime <hi>either in</hi> my self <hi>or</hi> another.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+         <div type="oath">
+            <pb facs="tcp:33509:3"/>
+            <head>That which (I suppose) I am to Swear in taking this Oath.</head>
+            <p n="1">1. I Am not thereby either to <hi>Deny</hi> or <hi>Assert,</hi> That either Ja. <hi>the Second,</hi> or K. <hi>W.</hi> and Q. <hi>M.</hi> either <hi>have,</hi> or <hi>have not</hi> the <hi>Legal Right</hi> to the <hi>Crown</hi> and <hi>Government.</hi>
+            </p>
+            <p n="2">2. I am not to Swear <hi>never</hi> hereafter at any time to <hi>bear Allegeance</hi> to <hi>Ja.</hi> the <hi>Second,</hi> though his <hi>Legal Right</hi> shall appear, and He shall again <hi>Legally</hi> recover it, and <hi>Actually Govern by Law.</hi> But</p>
+            <p n="3">3. I am to Swear, that whilst K. W. and Q. M. are <hi>actually,</hi> as now they are, K. and Q. and <hi>Govern by Law,</hi> I will <hi>obey</hi> them according to the <hi>Law</hi> in all things <hi>lawful</hi> and <hi>honest,</hi> and by no means endeavour to <hi>disturb</hi> or <hi>oppose</hi> them in their <hi>Legal Government,</hi> but <hi>maintain</hi> and <hi>assist</hi> them in my <hi>place</hi> and <hi>station,</hi> as I shall be <hi>able,</hi> and our <hi>Laws</hi> require me to do.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:33509:3"/>
+            <head>A Modest and Impartial Enquiry INTO The Lawfulness Of Taking the NEW <hi>Oath of Allegeance.</hi>
+            </head>
+            <sp>
+               <speaker>A.</speaker>
+               <p>HAving just now met with the so much talk'd of OATH of <hi>Allegeance,</hi> imposed upon us under the penalties of forfeiting both Estate and Liberty, I have brought it with me, desiring your Opinion of it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I am not at all glad to hear, that this <hi>Oath,</hi> whatever it be, is so generally imposed; very much fearing, lest, as most such <hi>Impo<g ref="char:EOLhyphen"/>sitions</hi> have been found to do, it may do more hurt than good. Yet if it be imposed with such <hi>Penalties</hi> to be inflicted on them that re<g ref="char:EOLhyphen"/>fuse it; we are concern'd to consider seriously of it, lest we either wound our <hi>Consciences</hi> in taking it, or be too prodigal of our <hi>Estates</hi> and <hi>Liberty</hi> in refusing it. Pray let me hear the words of it.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The words of the <hi>Oath</hi> are these.</p>
+               <q>
+                  <p>I <hi>A. B.</hi> Do sincerely Promise and Swear, That I will be Faithful, and bear true Allegeance to Their Majesties King WILLIAM and Queen MARY.</p>
+               </q>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:33509:4"/>
+               <speaker>B.</speaker>
+               <p>The best way to discern whether or no this <hi>Oath</hi> may be lawfully sworn by us, will be (as I think) to enquire if it may be sworn according to God's directions, (<hi>Jer. 4. 2.) in Truth, in Judgment, and in Righteousness.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I am of the same Opinion. And <hi>first,</hi> Do you think it may be sworn <hi>in Truth?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Seeing this is a <hi>Promissory Oath,</hi> to swear it in <hi>Truth,</hi> seems to me nothing else, but <hi>truly,</hi> or (as the word in the <hi>Oath</hi> is) <hi>sincerely</hi> to intend to perform what we Promise. And this we may do.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes, if we Promise no <hi>Impossible, Vain,</hi> or <hi>Ʋnlawful</hi> thing.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>That it is neither <hi>Impossible,</hi> nor <hi>Vain,</hi> supposing it not <hi>Ʋn<g ref="char:EOLhyphen"/>lawful</hi> or <hi>Ʋnrighteous,</hi> I think we may be easily satisfied; and there<g ref="char:EOLhyphen"/>fore we need only enquire, whether it may be sworn in <hi>Righte<g ref="char:EOLhyphen"/>ousness.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yea, but it is necessary also that it be sworn in <hi>Judgment;</hi> What say you to that?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>If we know and consider well, <hi>What, Why,</hi> and to what <hi>End</hi> we swear, and after a rational deliberation are satisfied in mind, that the thing we promise is neither <hi>Impossible, Vain,</hi> nor <hi>Ʋnjust;</hi> we swear in <hi>Judgment.</hi> And therefore what concerns us chiefly to examine, is, if it may be sworn in <hi>Righteousness.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I see plainly it is so. May we then so swear it?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>If we may swear it without any <hi>wrong</hi> to <hi>God,</hi> our <hi>Neigh<g ref="char:EOLhyphen"/>bour,</hi> or our <hi>Selves,</hi> I think you will grant we may swear it in <hi>Righteousness.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I grant we may.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Wrong is done to <hi>God,</hi> when we break his <hi>Commandments.</hi> What <hi>Law</hi> of God then shall we break in taking this <hi>Oath?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I am afraid lest we should thereby break all the Laws of God commanding <hi>Obedience</hi> to our <hi>Lawful Governours,</hi> and those al<g ref="char:EOLhyphen"/>so that forbid <hi>Vain-swearing</hi> and <hi>Perjury.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>No Law of God commanding Obedience to <hi>Lawful Autho<g ref="char:EOLhyphen"/>rity,</hi> is broken by swearing <hi>Allegeance</hi> to our <hi>Lawful King</hi> and <hi>Queen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That's true; but if they be not so, and Another be our <hi>Lawful King,</hi> in swearing to bear that <hi>Allegeance</hi> to <hi>Them,</hi> which is due to <hi>Him</hi> alone, we break the Laws of Obedience to our <hi>Lawful Governours.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>You see then, no wrong is done to God in breaking his
+<pb n="3" facs="tcp:33509:4"/> Laws of Obedience to Lawful Governours, but by doing wrong to our <hi>Neighbour,</hi> I mean <hi>Him</hi> who is our <hi>Lawful Governour.</hi> We are therefore no farther concern'd here, but to see that no <hi>wrong</hi> be done to <hi>Him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>And this we ought very carefully to see to, before we can take this <hi>Oath.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is very true, and in order to this, we are first to consider <hi>who</hi> this <hi>Lawful King</hi> is, whom we may wrong by taking the <hi>Oath.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I imagine we are all satisfied, that JAMES the II. had a <hi>Legal Right</hi> to our <hi>Allegeance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I doubt it not.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>And I am not yet satisfied, that He either hath lost, or could lose that <hi>Right.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>If he could cease to be <hi>Lawful King,</hi> he could lose that <hi>Right</hi> to our <hi>Allegeance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That cannot be denied.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>If he could cease to be such a <hi>King,</hi> as by the <hi>Constitution</hi> of the Kingdom, our <hi>Kings</hi> must be, he could cease to be <hi>Lawful King.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I think that is also plain enough.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>And I think it is as plain, that our <hi>Constitution</hi> admits of no <hi>King</hi> that will not be <hi>limited</hi> in his Government by the <hi>Laws.</hi> Ours being no <hi>Absolute,</hi> but a <hi>Mixed</hi> and <hi>Limited Monarchy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Are we sure of that?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>We are, I think, sure, That the <hi>King's Will</hi> is not the mea<g ref="char:EOLhyphen"/>sure of his <hi>Power,</hi> but (as K. CHARLES the First of blessed Me<g ref="char:EOLhyphen"/>mory acknowledged) <hi>The Law is the Measure of his Will;</hi> That He is only our <hi>Liege,</hi> or <hi>Legal Soveraign,</hi> and the duty we owe him is <hi>Allegeance,</hi> or a <hi>Legal Obedience;</hi> that the <hi>Laws</hi> and <hi>Customs</hi> of this Realm have ever been accounted the <hi>Rule</hi> of Government; that the <hi>Regal Power</hi> hath been ordinarily confined to them; that these <hi>Laws</hi> whereby he is bound to Govern, are neither Made nor Inter<g ref="char:EOLhyphen"/>preted by <hi>his</hi> sole <hi>Authority,</hi> but by the concurrence of the other <hi>Estates</hi> of the Realm. If all this make it not evident that this is no <hi>Absolute,</hi> but a <hi>Limited Monarchy,</hi> nothing can.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Will it hence follow, that a <hi>Legal King</hi> can cease to be so?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I think it will very clearly. For seeing our <hi>Constitution</hi> al<g ref="char:EOLhyphen"/>lows of no <hi>Absolute Monarch,</hi> if any <hi>King</hi> refuse to be limited by <hi>Law</hi> in his <hi>Government,</hi> and will be <hi>Absolute,</hi> making his <hi>Will</hi> the
+<pb n="4" facs="tcp:33509:5"/> only <hi>Law</hi> by which he will Govern, he ceaseth to be <hi>Lawful King</hi> of this Realm; because he is become such as the <hi>Constitution</hi> will not bear.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Shall He hereby lose his <hi>Right</hi> to Govern?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Not his <hi>Right</hi> to Govern by <hi>Law</hi> if he <hi>will</hi> do so, and he hath no other <hi>Right</hi> that I know of.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Then it seems he may be <hi>Lawful</hi> or <hi>Rightful King</hi> still, tho' he unjustly claim an <hi>Absolute Power;</hi> for he may be restrained by <hi>Laws</hi> in the <hi>Exercise</hi> of his Power.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Laws</hi> indeed may <hi>prescribe</hi> the Limits of his Power, but how shall they <hi>confine</hi> Him within those Limits, if he will be <hi>Arbitrary</hi> and <hi>Boundless?</hi> What signifies a <hi>Limitation</hi> that can limit him no farther than he <hi>will</hi> be limited? Will he not be as <hi>Absolute</hi> notwith<g ref="char:EOLhyphen"/>standing such <hi>Laws,</hi> as he could be without them, if he can for<g ref="char:EOLhyphen"/>feit no <hi>Right</hi> by transgressing them?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Must a King needs lose his <hi>Right</hi> to Govern, by any transgres<g ref="char:EOLhyphen"/>sion of the <hi>Laws,</hi> whereby his <hi>Authority</hi> is limited?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>By no means. Nay all <hi>tolerable</hi> transgressions of the Law, and very <hi>many</hi> and <hi>great</hi> grievances ought to be born, rather than the <hi>Peace</hi> and <hi>Safety</hi> of a Kingdom should be hazarded by disturbing the Government. Neither do I think that a <hi>King</hi> can forfeit his <hi>Right</hi> to govern, so long as by any means he may be reduced to a <hi>Legal exercise</hi> of his Authority, or will be content to <hi>Reign</hi> without the <hi>subversion</hi> of the Government, and the <hi>ruine</hi> of his people.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>How shall we understand when he will not be content with this?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>When after all Legal means used for his due <hi>information</hi> and just <hi>restraint;</hi> he shall either by <hi>Word or Deed</hi> manifestly <hi>declare</hi> it to be his resolution to be <hi>Arbitrary,</hi> and no longer to be limited by any <hi>Law</hi> but his own <hi>Will.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But the <hi>King</hi> has a <hi>Divine Right,</hi> his <hi>Power</hi> is of God, and can he forfeit that by transgressing the Laws of <hi>Men?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>When you say, <hi>His power is of God,</hi> is this your meaning; That this very <hi>individual Person,</hi> suppose it <hi>JAMES</hi> the Second, was <hi>named</hi> or <hi>pointed out</hi> by God (as <hi>Saul</hi> and <hi>David</hi> were) to be <hi>King</hi> yea and <hi>Absolute Monarch</hi> of this Realm?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I have no such meaning.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Then you can mean no more, but that <hi>Government</hi> in every Nation is of <hi>Divine Institution,</hi> and when any <hi>Person</hi> is once <hi>Legally</hi> invested in it, whether the <hi>Authority</hi> be convey'd to him by <hi>Election</hi> or <hi>Succession,</hi> it is of God.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:33509:5"/>
+               <speaker>A.</speaker>
+               <p>That is my meaning.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Then that <hi>Authority</hi> is neither more nor less, than <hi>He</hi> or <hi>They</hi> by whom 'tis derived unto him, <hi>is</hi> or <hi>were</hi> invested in by the <hi>Funda<g ref="char:EOLhyphen"/>mental Constitution</hi> of the Kingdom, provided it be sufficient for the <hi>ends</hi> of Government.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I have nothing to say against that at present.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I hope we may also take it for granted. That the <hi>Right</hi> the <hi>King</hi> hath from God, is to be <hi>a Minister of God for the good of his Peo<g ref="char:EOLhyphen"/>ple, that under him they may lead quiet and peaceable lives in all God<g ref="char:EOLhyphen"/>liness and Honesty;</hi> and that they through whom this Right was con<g ref="char:EOLhyphen"/>vey'd to him never consented or meant that he should abuse it to their <hi>hurt</hi> or <hi>ruine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>This cannot be gainsaid.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Then I think a <hi>King</hi> in <hi>declaring</hi> his resolution not to regard the right <hi>ends</hi> of Government, nor any <hi>Law</hi> but his own <hi>Will,</hi> tho' it tend not to the <hi>preservation,</hi> but <hi>subversion</hi> of the established Govern<g ref="char:EOLhyphen"/>ment, not to the <hi>protecting,</hi> but the <hi>inslaving</hi> or <hi>ruining</hi> his people; <hi>De<g ref="char:EOLhyphen"/>clares</hi> his resolution to be no longer <hi>lawful King,</hi> either by <hi>Divine</hi> or <hi>Human Right.</hi> Destroying the <hi>Original Constitution</hi> of the Government, he undermines and Subverts his own <hi>Authority</hi> thereby, and absolves his Subjects from <hi>Allegeance</hi> to him.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>This being a weighty point, I desire a little better to under<g ref="char:EOLhyphen"/>stand it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>King</hi> holds his <hi>Crown,</hi> as his Subjects do their <hi>Liberties</hi> and <hi>Properties,</hi> by the <hi>Laws</hi> and <hi>Customs</hi> of the Kingdom: if he there<g ref="char:EOLhyphen"/>fore <hi>subvert</hi> that whereon his <hi>Authority</hi> stands, the <hi>Legal Constitution</hi> of the Kingdom, he must needs overthrow his own <hi>Legal Authority.</hi> All that we owe him is a <hi>Legal Obedience;</hi> destroying the <hi>Laws</hi> he quits that, and onely challengeth what we owe him not, and there<g ref="char:EOLhyphen"/>fore in truth we owe him nothing.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>By what you have said, I am now convinced that a <hi>Legal King</hi> may cease to be so, and when he ceases to be so, no <hi>Allegeance</hi> can be due unto him. The next thing to be examined is, whether <hi>JAMES</hi> the 2d who was once our <hi>Legal King,</hi> have ceased or no to be any longer so. What think you of that?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>That we must now examine, by applying to <hi>Him</hi> what we have already said. If <hi>He</hi> then hath in effect <hi>declared,</hi> that he would no longer rule us as his <hi>Legal Subjects</hi> by <hi>Laws,</hi> but as <hi>Slaves</hi> by an <hi>Arbitrary</hi> Power; he hath quitted his <hi>Lawful Authority,</hi> which was all he had, and assumed an <hi>Authority</hi> which is none of his;
+<pb n="6" facs="tcp:33509:6"/> and thereby hath absolved us from our <hi>Allegeance</hi> to Him.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>How did he <hi>declare</hi> this, when in his <hi>Declaration</hi> he promised to protect us in our <hi>Rights</hi> and <hi>Properties?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>What signifies a <hi>Verbal promise,</hi> which was in <hi>Deed</hi> broken al<g ref="char:EOLhyphen"/>most as soon as made? All it teacheth us is, not to believe such pro<g ref="char:EOLhyphen"/>mises again, till we can have better evidence of his intentions, and better security too for the performance than I know which way he can give us.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But where do you find his <hi>Declaration</hi> not to Govern by Law?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>In his challenging to himself expresly an <hi>Absolute Power,</hi> and requiring to have his will obey'd <hi>without reserve.</hi> In <hi>Suspending</hi> some <hi>Laws</hi> for ever, and <hi>Dispensing</hi> with others at pleasure, and calling this his <hi>Right</hi> and <hi>Prerogative.</hi> In <hi>Licensing</hi> persons to act in <hi>Office</hi> contra<g ref="char:EOLhyphen"/>ry to Law, and putting them out of Office that would not own and assert his Right so to do. In imposing <hi>Illegal</hi> things, and <hi>punishing</hi> such as according to their known <hi>duty</hi> only in the most Legal way <hi>Peti<g ref="char:EOLhyphen"/>tion'd</hi> to be excused. In erecting <hi>Illegal Courts</hi> in an <hi>Arbitrary</hi> way, to eject men out of their undoubted <hi>Free-holds,</hi> meerly for adhe<g ref="char:EOLhyphen"/>ring to the Laws. In treating with, and receiving a <hi>Nuncio</hi> from that <hi>Forreign Power</hi> which the whole Nation is sworn to oppose. In admitting an <hi>order</hi> of men into his <hi>Privy-Council,</hi> for which it is <hi>Trea<g ref="char:EOLhyphen"/>son</hi> to enter the Kingdom. In using base <hi>Arts</hi> to pack <hi>Parliaments</hi> of men by Law disabled for that trust. In over-awing the people in<g ref="char:EOLhyphen"/>to submission to his <hi>Arbitrariness</hi> by an <hi>Army</hi> kept a foot-in times of peace. I add no more but this only, in <hi>Deserting</hi> his people, leaving them without means of Government, and to the mercy of a dis<g ref="char:EOLhyphen"/>banded <hi>Army,</hi> and meerly because he would not hearken to any Treaty, or endure to hear of being tied to Govern by Law.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I wonder you say nothing of the death of the <hi>Earl of Essex,</hi> or of the <hi>Prince of Wales,</hi> or of the <hi>League with</hi> France.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I say nothing, but what is notorious to all the World, and cannot be denied.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>In order to our Swearing this <hi>Oath</hi> in <hi>Judgment,</hi> 'tis necessary we be well inform'd of the <hi>truth</hi> of all this as matter of <hi>Fact,</hi> and farther in point of <hi>Law,</hi> whether all this will null his <hi>Authority.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>You and I being <hi>private Persons,</hi> and neither <hi>Lawyers</hi> nor <hi>Statesmen,</hi> what course could we take for our <hi>Information,</hi> but what has been taken? the <hi>Peers</hi> did personally Convene, and all of us in our <hi>Representatives,</hi> to <hi>Examine, Consult</hi> and <hi>Conclude</hi> as there was
+<pb n="7" facs="tcp:33509:6"/> cause. These have found the matter of <hi>Fact,</hi> and declared thereup<g ref="char:EOLhyphen"/>on the <hi>Throne</hi> to be <hi>vacant,</hi> and have again filled it.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Filled it indeed, but how? If <hi>JAMES</hi> the 2d have left it vacant, why was it not filled with the next undoubted <hi>Heir?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>JAMES</hi> the 2d losing his <hi>Authority,</hi> it must either lapse to the Nation, or descend to the next <hi>Heir.</hi> If it lapsed, our <hi>Repre<g ref="char:EOLhyphen"/>sentatives</hi> have anew disposed of it, and their act is good. If it descended, they have done the next <hi>Heir</hi> right, she is in the <hi>Throne.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes jointly with another who hath all the <hi>Power</hi> and <hi>She</hi> the empty <hi>Title.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The whole <hi>Administration</hi> you mean, not all the <hi>Power:</hi> and whatever <hi>He</hi> hath we may justly suppose 'tis with <hi>Her consent.</hi> The <hi>Crown</hi> was tender'd to <hi>both,</hi> accepted by <hi>both,</hi> set on the heads of <hi>both,</hi> and the <hi>Oath</hi> of <hi>Allegiance</hi> is to <hi>both.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Think you the <hi>Determination</hi> of this <hi>Convention</hi> enough to war<g ref="char:EOLhyphen"/>rant us in <hi>Conscience</hi> to take this <hi>Oath.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>God's <hi>written Word</hi> (the best <hi>Rule of Conscience</hi>) commands us only in general, <hi>Allegeance</hi> to the <hi>Higher Powers.</hi> There is now a dis<g ref="char:EOLhyphen"/>pute whether the <hi>Supream Power</hi> be in <hi>JAMES</hi> the 2d or in <hi>WIL<g ref="char:EOLhyphen"/>LIAM</hi> and <hi>MARY.</hi> The <hi>Scripture</hi> will not tell us in which it is. Who then shall? The <hi>Laws</hi> of the Land you'll say. But you and I are not read in the <hi>Laws.</hi> Who then but the <hi>Representative</hi> body of the Nation? If we must not rest in their <hi>Determination,</hi> wherein may we rest?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>To <hi>rest</hi> on their determination is one thing, to <hi>swear</hi> ano<g ref="char:EOLhyphen"/>ther.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>To <hi>rest</hi> on their determination implies a <hi>Legal Obedience</hi> to King <hi>WILLIAM</hi> and Queen <hi>MARY,</hi> and that's all is meant by <hi>Allegeance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>And I am resolved to yield it them.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Why then may you not <hi>swear</hi> to do, what you <hi>resolve</hi> to do?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Because in this Oath I seem to assert their <hi>Right</hi> which is yet doubtful.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I am sure we do not in this <hi>Oath expresly</hi> assert any <hi>Right</hi> they have.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But it seems that <hi>Implicitly</hi> at least we do. For they are here stiled <hi>Their Majesties,</hi> and are called <hi>King</hi> and <hi>Queen,</hi> and it must be supposed they are so, when we swear <hi>Allegeance</hi> to them, else the
+<pb n="8" facs="tcp:33509:7"/>
+                  <hi>Oath</hi> is a <hi>Mockery,</hi> and <hi>a taking God's name in vain.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But is it <hi>implied,</hi> that they are <hi>Lawful</hi> and <hi>Rightful King</hi> and <hi>Queen,</hi> and that we <hi>assert</hi> them to be so, as we did <hi>expresly</hi> do in the late <hi>Oath</hi> of <hi>Allegeance?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I think this is <hi>implied,</hi> for <hi>Allegeance</hi> is due to such only, and that's it we swear.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Who is to <hi>interpret</hi> an <hi>Oath</hi> where the meaning is dubious?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The <hi>Imposers</hi> of it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Was there not a debate among them about these words <hi>Law<g ref="char:EOLhyphen"/>ful</hi> and <hi>Rightful?</hi> And were they not <hi>purposely</hi> left out, lest they should create <hi>Scruples</hi> in them who are to take the <hi>Oath?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>'Tis said it was so.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>To what purpose was this <hi>omission</hi> of those words, if what they signify must still be look'd upon as <hi>implied</hi> in the <hi>Oath?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I know not that. But I am sure if this be not <hi>implied,</hi> it seems to me a very <hi>vain,</hi> and therefore <hi>unlawful Oath.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Why so?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Because admitting this, we swear as good as <hi>nothing.</hi> For <hi>Al<g ref="char:EOLhyphen"/>legeance</hi> being that <hi>Obedience</hi> which is due by the <hi>Laws</hi> to our <hi>Law<g ref="char:EOLhyphen"/>ful Soveraign,</hi> if they be not <hi>Lawful King</hi> and <hi>Queen,</hi> no such <hi>obedience</hi> can be due to them by the <hi>Laws;</hi> and swearing no other, I swear as good as <hi>nothing,</hi> a very <hi>vain Oath.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is granted, that the <hi>Laws</hi> prescribe and bound the <hi>Obedience</hi> which is due to our <hi>Lawful Soveraign,</hi> so that no other hath a <hi>right</hi> by <hi>Law</hi> to that <hi>Obedience,</hi> nor need we by <hi>Law</hi> to pay him any other; and in this sense 'tis called <hi>Allegeance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But how can we swear to pay that which is <hi>due</hi> to our <hi>Lawful Soveraign,</hi> and to <hi>him only,</hi> to those whom we need not suppose to be so?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>May we not in many cases swear to <hi>pay</hi> one that which is not by any <hi>Law</hi> beforehand his <hi>right</hi> and <hi>due?</hi> And will not such an <hi>Oath</hi> create to him a <hi>right</hi> and <hi>due,</hi> which was not his before?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I grant it in some cases, but not where it will be to anothers <hi>wrong,</hi> and it must needs be a <hi>wrong</hi> to our <hi>Lawful Soveraign</hi> to pay his <hi>due</hi> to another.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Tho' the <hi>Legal Soveraign</hi> alone can Challenge our <hi>Allegeance</hi> as his <hi>Debt</hi> and <hi>Due;</hi> may we not promise the <hi>like</hi> obedience to <hi>ano<g ref="char:EOLhyphen"/>ther</hi> without <hi>wrong</hi> to <hi>him?</hi> I owe <hi>you</hi> by bond <hi>Twenty pounds,</hi> may I not pay the <hi>like Sum</hi> to <hi>another,</hi> to whom I owe it not, without wrong<g ref="char:EOLhyphen"/>ing <hi>you?</hi> Or may I not <hi>Promise</hi> and <hi>Swear</hi> to him beforehand to do it,
+<pb n="9" facs="tcp:33509:7"/> and make it so a <hi>Legal</hi> debt, tho no <hi>Law</hi> bound me before either to <hi>promise</hi> or <hi>pay</hi> it?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Without doubt you may, so you pay <hi>me</hi> too what you owe me. But how we can swear <hi>Allegeance,</hi> to <hi>W.</hi> and <hi>M.</hi> as <hi>King</hi> and <hi>Queen,</hi> and yet pay our <hi>Allegeance</hi> to our <hi>Lawful Soveraign,</hi> supposing another be so, I see not. This were <hi>to serve two Masters,</hi> to set up two <hi>Soveraign Powers</hi> in one Kingdom, and indeed to swear <hi>Impossi<g ref="char:EOLhyphen"/>bilities.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I pay the <hi>Service I owe</hi> to <hi>one</hi> man as to my <hi>Master,</hi> whose <hi>due</hi> it is. I pay the <hi>like Service</hi> to <hi>another</hi> whose <hi>due</hi> it is not, nor own I <hi>him</hi> thereby for my <hi>Master:</hi> To the one I pay a <hi>debt,</hi> on the o<g ref="char:EOLhyphen"/>ther I bestow a <hi>largess</hi> or <hi>boon.</hi> I pay my <hi>Allegeance</hi> to my <hi>Soveraign</hi> as far as I can. I yield the <hi>like obedience</hi> to <hi>another,</hi> not as my <hi>So<g ref="char:EOLhyphen"/>veraign,</hi> but as one whom I have other reasons thus to <hi>oblige.</hi> The former has his <hi>due,</hi> the later <hi>more</hi> than is <hi>due,</hi> but no more than I think fit. Where's now the <hi>Impossibility</hi> or <hi>Injustice?</hi> A <hi>penny</hi> was one labourer's due, and a <hi>penny</hi> was more than was due to another; yet were they paid alike, the one had no <hi>wrong,</hi> nor the <hi>other too much.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yet I see not how this can be done in our present case.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Our <hi>Case</hi> is this: The <hi>Imposers</hi> of this <hi>Oath</hi> have concluded, That <hi>JAMES</hi> the 2d is no longer our <hi>Lawful Soveraign,</hi> but <hi>WILLI<g ref="char:EOLhyphen"/>AM</hi> and <hi>MARY.</hi> Yet do they not require that we should <hi>expresly</hi> swear <hi>this,</hi> but only that we will, whilst they govern us, <hi>obey</hi> them in all their <hi>Legal Commands,</hi> which is the very <hi>same</hi> and <hi>all</hi> which we are bound by <hi>Law</hi> to do towards our <hi>Lawful Soveraign,</hi> if any other be so. And our <hi>Question</hi> is, Whether we may swear this or no?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I think we may not, because it is not certain that <hi>another</hi> is not our <hi>Lawful King,</hi> and we may not swear away his <hi>Right.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>If all that was said above be true, <hi>JAMES</hi> the 2d is not our <hi>Lawful King.</hi> Yet we are willing at present to suppose it <hi>doubtful</hi> whether he be or no, and what has been last said is in order to their Satisfaction who yet <hi>doubt</hi> of this.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>We may not swear he is not <hi>Lawful King,</hi> whilst we <hi>doubt</hi> of it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Neither are we required to swear it, but only to be <hi>o<g ref="char:EOLhyphen"/>bedient</hi> to the <hi>Present King</hi> and <hi>Queen,</hi> ruling by the <hi>Laws</hi> of this <hi>Realm.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Do you think we may <hi>swear</hi> this, whilst we <hi>doubt</hi> that another may be <hi>wrong'd</hi> by it?</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:33509:8"/>
+               <speaker>B.</speaker>
+               <p>Must the Nation be <hi>ungovern'd</hi> till all our <hi>doubts</hi> about the <hi>Government</hi> and <hi>Right</hi> to <hi>Govern</hi> be removed?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I say not so, for <hi>Government</hi> is God's <hi>Ordinance,</hi> which no peo<g ref="char:EOLhyphen"/>ple can <hi>wilfully</hi> and <hi>innocently</hi> be without.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Who must <hi>Govern</hi> it in the mean time?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>He</hi> should whose <hi>right</hi> it is.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>True, but <hi>He,</hi> whom you now suppose to have the <hi>right,</hi> has <hi>deserted</hi> the <hi>Government,</hi> and cannot <hi>Govern.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Possibly, he was <hi>driven</hi> out by force.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>They whom we intrusted to enquire into that and other things do assure us he was not. Who should drive him away?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The <hi>Pr.</hi> of <hi>Or,</hi> and his <hi>Assistants.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Then the <hi>Pr.</hi> by the help of his <hi>Assistants</hi> is become a <hi>Conque<g ref="char:EOLhyphen"/>ror,</hi> and if <hi>Conquest</hi> create so good a <hi>Right,</hi> that some have thought it the best <hi>Title</hi> that any of our <hi>Kings</hi> could have, and thence have ar<g ref="char:EOLhyphen"/>gued that they were <hi>Absolute Monarchs,</hi> why hath not <hi>King WILLI<g ref="char:EOLhyphen"/>AM</hi> as good a <hi>Right</hi> as any that were before him?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I have no mind to dispute about that.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Nor need you, for I think 'tis plain enough that <hi>JAMES</hi> the 2d <hi>voluntarily</hi> forsook the Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Had it not been fit however to have <hi>treated</hi> with him about <hi>returning</hi> to his <hi>Government,</hi> before another was seated in his <hi>Throne?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Had they who are best able to judge what's sit in such a case taken that course, I should have thought no worse of them for it, be<g ref="char:EOLhyphen"/>cause it might have tended to many men's better <hi>Satisfaction.</hi> Yet I confess I cannot see to what <hi>other</hi> purpose it would have been. For either he would have disdain'd such a <hi>Treaty,</hi> as below him, or he would not have consented to govern by <hi>Law;</hi> or if he would, he could not have given us better <hi>assurance</hi> that he would do so, than he had beforehand given us that he would not.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Why then had we not rather a <hi>Regent</hi> in his name, than a <hi>King</hi> in his stead?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Had he been either <hi>Infant</hi> or <hi>Lunatick,</hi> this might have done, but to a <hi>Person</hi> of his <hi>Age, Temper</hi> and <hi>Religion,</hi> a <hi>Prison</hi> and a <hi>Fetter</hi> would have been as easy as a <hi>Regent.</hi> To be short, 'tis fit the <hi>Nation</hi> in his absence should be well <hi>govern'd,</hi> and who fitter for the <hi>Govern<g ref="char:EOLhyphen"/>ment,</hi> than the next <hi>Heir,</hi> or <hi>He</hi> who hath it by <hi>her</hi> consent? And whilst they <hi>Govern</hi> by <hi>Law,</hi> 'tis our duty to obey them, and what it is our <hi>duty</hi> to do, I think we may <hi>swear</hi> to do.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But not if we <hi>doubt</hi> whether it be our <hi>duty</hi> or no.</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:33509:8"/>
+               <speaker>B.</speaker>
+               <p>I pray consider it well. The <hi>wrong</hi> done to another, if any at all, is to <hi>One</hi> who will not <hi>exercise</hi> his <hi>Right</hi> as he ought to do, and you do no more but <hi>doubt</hi> whether he be <hi>wrong'd</hi> or no. What is this in comparison of the <hi>Wrong</hi> which a whole <hi>Kingdom</hi> sustains for want of <hi>Government?</hi> And <hi>Government</hi> it must want if we will not <hi>obey</hi> our <hi>present Governors.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yet this seems no better than <hi>doing of evil that good may come.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Government</hi> is a necessary <hi>good,</hi> neither can <hi>obedience</hi> to <hi>Gover<g ref="char:EOLhyphen"/>nors,</hi> be they <hi>Lawful</hi> or no, in things <hi>Just</hi> and <hi>Legal,</hi> for the <hi>publick</hi> good, be any <hi>evil.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The <hi>evil</hi> I shall be guilty of in Swearing this <hi>Oath</hi> seems to me very great, even no less than <hi>Perjury.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I confess that's an <hi>evil</hi> not to be ventured on to save a world from drowning. No greater <hi>wrong</hi> can be done to God than this. But why must we be guilty of <hi>Perjury</hi> upon this account?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Have we not already sworn <hi>Allegeance</hi> to <hi>another?</hi> How then can we swear this new <hi>Oath</hi> of <hi>Allegeance</hi> without <hi>Perju<g ref="char:EOLhyphen"/>ry?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Did we swear <hi>Allegeance</hi> to another <hi>absolutely</hi> and <hi>for ever,</hi> or only for <hi>so long</hi> as he should be <hi>Lawful King,</hi> and our <hi>Allegeance</hi> his <hi>right</hi> and <hi>due.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Without all dispute for <hi>so long</hi> only.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Then if at any time <hi>it</hi> prove to be no longer his <hi>right</hi> and <hi>due,</hi> or he any way cease to be <hi>Lawful King,</hi> we are absolved from that <hi>Oath,</hi> and at Liberty to swear the same to another whose <hi>right</hi> and <hi>due</hi> it is become. Did we swear that <hi>He</hi> who then was <hi>rightful King,</hi> would <hi>always</hi> be so, or that we would bear him <hi>Allegeance</hi> when he should <hi>not</hi> be so?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>We must have been mad to swear that.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Perjury</hi> then you are afraid of is only on <hi>supposition</hi> that <hi>he</hi> to whom you swore is as much <hi>now</hi> our <hi>Lawful King,</hi> as <hi>then</hi> he was; for if he be not so, your <hi>Allegeance</hi> is at an end, and your <hi>Oath</hi> too. Do you think we are bound by that <hi>Oath, not to live in Obedience</hi> and <hi>Subjection</hi> to the <hi>Present K.</hi> and <hi>Q.</hi> whilst they command by <hi>Law</hi> things <hi>Just</hi> and <hi>Lawful?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I am not well satisfied as to that.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>If we be not thereby obliged, <hi>not to obey their Legal Commands,</hi> then may we <hi>obey</hi> them, and then may we, when call'd to it, for their <hi>Satisfaction</hi> and our own <hi>safety, swear</hi> to obey them. If we be obliged <hi>not to obey them,</hi> then is it unreasonable we should expect their <hi>Pro<g ref="char:EOLhyphen"/>tection.</hi>
+                  <pb n="12" facs="tcp:33509:9"/> But I think, that if that <hi>Oath</hi> bind us yet at all, it binds us either <hi>to obey</hi> our <hi>present Governors,</hi> or to <hi>oppose</hi> and <hi>resist</hi> them all we can possibly.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Why think you so?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Our present <hi>King</hi> and <hi>Queen</hi> are either the <hi>Lawful Successors</hi> of <hi>him</hi> to whom that <hi>Oath</hi> was sworn, or they are <hi>Invaders</hi> and <hi>Ʋsur<g ref="char:EOLhyphen"/>pers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>They must needs I think be one of the two.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>If then they be his <hi>Lawful</hi> either <hi>Heirs</hi> or <hi>Successors,</hi> and that <hi>Oath</hi> be yet <hi>binding,</hi> it binds to <hi>obey</hi> them, for in it we swore <hi>Alle<g ref="char:EOLhyphen"/>geance</hi> to his <hi>Majesty,</hi> his <hi>Heirs</hi> and <hi>Successors.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That cannot be denied.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>And if they be <hi>Invaders and Ʋsurpers</hi> of the <hi>Soveraign Authori<g ref="char:EOLhyphen"/>ty,</hi> and that <hi>Oath</hi> be still <hi>binding,</hi> then doth it bind us not only <hi>not to obey</hi> them, but to <hi>oppose</hi> and <hi>resist</hi> them with all our might. For we then swore to <hi>Assist and Defend to our power all Jurisdictions, Priviledges Pre-eminences and Authorities granted or belonging to His Majesty, His Heirs and Successors, or united and annexed to the Imperial Crown of this Realm.</hi> How can we to our <hi>power assist</hi> and <hi>defend</hi> these, and not with all our <hi>might oppose</hi> and <hi>resist</hi> the <hi>Invaders</hi> of them?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I had not well consider<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d this.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>We swore also to <hi>defend to the uttermost of our power His Majesty against all attempts whatsoever made against His Person, Crown or Dignity, and to endeavour to disclose and make known to him all Treasons and Traite<g ref="char:EOLhyphen"/>rous Conspiracies made against him.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>'Tis true we did so.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Well then, if that <hi>Oath</hi> bind us not, we are not because of it guilty of <hi>Perjury,</hi> if we take this <hi>New Oath:</hi> But if it do still <hi>bind</hi> us, then are we guilty of <hi>Perjury,</hi> not only if we <hi>swear</hi> this new <hi>Oath,</hi> but if we do not to our <hi>uttermost power oppose</hi> and <hi>resist</hi> the <hi>present K.</hi> and <hi>Q.</hi> or if we do not <hi>disclose</hi> and <hi>make known to JAMES</hi> the II. whatever we know of any thing by <hi>them,</hi> or any <hi>other</hi> attempted against him.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>If that <hi>Oath</hi> bind us to all this, how can we swear <hi>Allegeance</hi> to another?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I confess we cannot on that <hi>supposition:</hi> but why then should it more <hi>bind</hi> us from <hi>taking</hi> this <hi>Oath,</hi> than to the <hi>doing</hi> of all that I have now mentioned? Why do we pretend to fear the guilt of <hi>Per<g ref="char:EOLhyphen"/>jury</hi> in the <hi>one,</hi> and not in the <hi>other?</hi> Why consider we not that if it binds us not to <hi>resist</hi> them, it binds us to <hi>Obey</hi> them, and then are we
+<pb n="13" facs="tcp:33509:9"/>
+                  <hi>perjured</hi> if we <hi>obey</hi> them <hi>not,</hi> and certainly that we may <hi>swear</hi> to do, which we are <hi>perjured</hi> if we do not.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I confess these things do not a little startle me.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Will you give me leave to ask you if you <hi>pray</hi> for the <hi>present K.</hi> and <hi>Q.</hi> as it is now ordered?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes, I may and must <hi>pray</hi> for <hi>all</hi> men, and even for <hi>Enemies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But can you <hi>use,</hi> or join in the <hi>publick Prayers</hi> for them accord<g ref="char:EOLhyphen"/>ing to <hi>order</hi> calling them in your devout addresses to God, your <hi>Sove<g ref="char:EOLhyphen"/>raign Lord and Lady,</hi> your <hi>most Religious and Gracious King and Queen;</hi> and praying that <hi>God would strengthen them to vanquish and overcome all their Enemies.</hi> That <hi>God would rule the hearts of his</hi> chosen Ser<g ref="char:EOLhyphen"/>vants, W. <hi>and</hi> M. <hi>that we duly considering whose Authority they have, may Faithfully serve, honour and humbly obey them.</hi> Can you pray thus?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I hear many do, who yet scruple the taking this <hi>Oath.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>And yet I must needs say, I cannot imagine for what reason they can do the <hi>one</hi> and refuse the <hi>other:</hi> For they <hi>expresly own</hi> them to <hi>God</hi> in <hi>Prayer</hi> to be, what they are not tied <hi>expresly to own</hi> them in the <hi>Oath;</hi> and they pray that <hi>God</hi> would <hi>grant</hi> them to do as much as the <hi>Oath binds</hi> them to do.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The <hi>Clergy</hi> will be most concern'd to answer <hi>that;</hi> however I hope you do not think it any <hi>argument</hi> for taking the <hi>Oath,</hi> for no man is warranted by doing <hi>one</hi> evil to venture on <hi>another.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I use it not as an <hi>Argument</hi> to prove the taking of the <hi>Oath</hi> to be <hi>lawful,</hi> but propound it as a thing deserving their <hi>consideration</hi> who dare not take the <hi>Oath,</hi> and yet venture thus to <hi>Pray;</hi> I con<g ref="char:EOLhyphen"/>ceiving it as lawful to do <hi>both</hi> as to do <hi>either;</hi> and not finding that there is any danger in not doing the one more than in not doing the other.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Let us keep to the question before us. I am satisfied, that if <hi>JAMES</hi> the II. be not yet our <hi>Lawful King,</hi> and if K. <hi>WILLIAM</hi> and Q. <hi>MARY</hi> have a <hi>good Title,</hi> we may Swear <hi>Allegeance</hi> to them, but not otherwise.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I am satisfied, that this <hi>Monarchy</hi> is no <hi>Absolute,</hi> but a <hi>Limited Monarchy;</hi> that therefore any King of <hi>England,</hi> that will not be <hi>Li<g ref="char:EOLhyphen"/>mited</hi> according to the <hi>Fundamental Constitution</hi> of this Government, is no longer <hi>Legal King</hi> of <hi>England;</hi> that <hi>JAMES</hi> the II hath super<g ref="char:EOLhyphen"/>abundantly shewn that he would not be so <hi>Limited;</hi> and therefore that he is no longer <hi>Legal King</hi> of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>And are you also satisfied, that K. <hi>WILLIAM</hi> and Q. <hi>MA<g ref="char:EOLhyphen"/>RY</hi> have a good <hi>Right</hi> and <hi>Title.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:33509:10"/>
+               <speaker>B.</speaker>
+               <p>I am satisfied, that we have no reason to believe there is in being such a thing as a <hi>true Prince of Wales,</hi> and that therefore the PRINCESS of <hi>ORANGE</hi> was the <hi>Rightful Heir;</hi> that being made Q. of <hi>England,</hi> she hath her <hi>Right;</hi> and the <hi>Prince</hi> of <hi>ORANGE,</hi> being by <hi>Her</hi> Consent join'd with <hi>Her</hi> in the <hi>Government,</hi> and having the Sole <hi>Administration</hi> thereof committed to him, and both of them having accepted of the <hi>Crown</hi> upon these <hi>Terms, He</hi> is also <hi>rightful King of</hi> England.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>If this be so, we may lawfully Swear this <hi>Oath.</hi> But, put the case, that <hi>some</hi> there be, and it may be not a <hi>few,</hi> who really think, that <hi>James the II.</hi> is yet our <hi>Legal King,</hi> and that <hi>W.</hi> and <hi>M.</hi> are but <hi>Invaders</hi> of the <hi>Regal Dignity,</hi> may these Swear <hi>Allegeance</hi> to them?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Is He whom they will have our <hi>Legal King</hi> in a <hi>present capacity</hi> to <hi>Govern</hi> us?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>No, but He might be, were he peaceably <hi>recall'd</hi> and <hi>invited</hi> to it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Have they any reason to hope, that returning, He would be content to <hi>pardon</hi> all that is past, and to Govern by the establish'd <hi>Laws</hi> for the future, never endeavouring to settle <hi>Popery</hi> by vio<g ref="char:EOLhyphen"/>lence, nor to re-assume an <hi>Arbitrary Authority?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I cannot conceive what reason any one can have to hope this, or what assurance <hi>He</hi> could give us that he would be so content.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Suppose then He were <hi>re-call'd</hi> and <hi>re-inthroned,</hi> and should bring in his beloved <hi>Counsellors</hi> the <hi>Jesuits</hi> along with him, and fall to the old trade again, would these men patiently suffer their <hi>Reli<g ref="char:EOLhyphen"/>gion, Liberties</hi> and <hi>Properties,</hi> and possibly <hi>Lives</hi> too to be <hi>invaded</hi> and <hi>destroy'd,</hi> and the whole <hi>Nation</hi> and <hi>Government</hi> ruin'd?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I hope they would not.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>What course then would they take to <hi>secure</hi> and <hi>preserve</hi> these things?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>They would possibly think of setting up a <hi>Regent,</hi> or putting the command of the <hi>Army</hi> into other hands, and so leave <hi>Him</hi> only the <hi>Name</hi> and <hi>Title</hi> of <hi>King;</hi> I know not what else could be done.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>And would not this be a violation of the former <hi>Oath</hi> of <hi>Al<g ref="char:EOLhyphen"/>legeance,</hi> as well as what is now done?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I think it would.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>To let that pass, can they hope <hi>He</hi> would be willingly so <hi>con<g ref="char:EOLhyphen"/>fined</hi> and <hi>restrained,</hi> and not endeavour by the assistance of all his friends <hi>at home</hi> or <hi>abroad</hi> to recover his <hi>Absolute Power?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>No rational man that knows him can imagine it.</p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:33509:10"/>
+               <speaker>B.</speaker>
+               <p>And if he should thus attempt by <hi>force</hi> to subdue us to his <hi>Will,</hi> would these men sit <hi>quiet,</hi> and not make any <hi>resistance,</hi> but suf<g ref="char:EOLhyphen"/>fer not only this <hi>Nation</hi> to be <hi>inslaved</hi> and <hi>ruin'd,</hi> but also the <hi>Pro<g ref="char:EOLhyphen"/>testant Religion</hi> brought into the extreamest danger of being quite <hi>ex<g ref="char:EOLhyphen"/>tirpated</hi> throughout the World?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Surely they would be wiser than to suffer this.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Well then, <hi>He</hi> is in a <hi>present incapacity</hi> to <hi>Govern</hi> us, and no hopes have we that if he were recall'd he would protect us by the <hi>Laws,</hi> but rather endeavour to destroy both <hi>us</hi> and our <hi>Laws;</hi> and if he should endeavour this, as he hath already done, either we must suffer it when it is in our power to prevent it, and so be <hi>Accessories</hi> to it; or we must take the same course that is <hi>now</hi> taken; I can think of no other, unless they should think that of <hi>Forty Eight</hi> better, as I hope they will not.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I hope so too.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Till then <hi>He</hi> can be in a <hi>capacity</hi> to <hi>Govern</hi> us, shall we be <hi>ungovern'd,</hi> and so exposed to our <hi>Enemies mercy</hi> abroad, and live in <hi>Confusion</hi> at home?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That's not fit.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>If we must be <hi>govern'd,</hi> why not rather by our <hi>present Gover<g ref="char:EOLhyphen"/>nors</hi> than by others?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Because they are thought <hi>Invaders</hi> and <hi>Ʋsurpers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>So would any other from <hi>abroad,</hi> and they at <hi>home,</hi> should they undertake the Government, would be thought <hi>Ʋsurpers, Rebels</hi> and <hi>Traytors;</hi> and so, tho' we must be <hi>governed,</hi> yet none must be thought fit to <hi>Govern.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>What then I pray is your Opinion in this case?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Government being <hi>God's Ordinance,</hi> and the end of it, next to his <hi>glory,</hi> being the <hi>safety</hi> and <hi>welfare</hi> of the whole Nation, and the maintaining it in the exercise of <hi>Piety</hi> and <hi>Justice, Peace</hi> and good <hi>Order;</hi> we ought not to rest contentedly without it; and whilst <hi>He</hi> who is supposed to be our <hi>Legal King</hi> is under an <hi>incapacity</hi> of go<g ref="char:EOLhyphen"/>verning us, or will not Govern us by <hi>Law,</hi> but by his own <hi>Will,</hi> whereby the true <hi>ends</hi> of Government will be lost to us, which is evidently our case; and <hi>others</hi> in the mean time undertake the Go<g ref="char:EOLhyphen"/>vernment, and manage it <hi>legally</hi> and <hi>hopefully</hi> as to the attaining of all those <hi>ends:</hi> I am verily perswaded we <hi>may</hi> and <hi>ought</hi> to <hi>obey</hi> them, whatever <hi>Title</hi> they have, so long as they are <hi>actually</hi> our Governors. And if we may <hi>obey</hi> them, seeing the <hi>publick peace</hi> and <hi>welfare</hi> depends so much upon it, we may also <hi>Swear</hi> to obey them.</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:33509:11"/>
+               <speaker>A.</speaker>
+               <p>I know not how this will relish with some.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Neither is it our concern how it will; but either we ought to <hi>obey</hi> in this case, and may <hi>Swear</hi> obedience when call'd to it, or we must hazard <hi>wilfully,</hi> not only our <hi>personal,</hi> but the <hi>Nations</hi> peace and safety, yea, and that of this <hi>Protestant Church,</hi> and for ought I know of <hi>all others;</hi> we must disobey <hi>Them</hi> in their <hi>just</hi> and <hi>legal commands</hi> (obedience to no other being required) to <hi>whom</hi> under God we owe as great a <hi>Deliverance</hi> as ever was wrought for this Kingdom, and our present free enjoyment of our <hi>Religion, Laws, Estates, Lives</hi> and <hi>Liberties;</hi> we must voluntarily run into <hi>confusion,</hi> or put our Necks into the Yoak of <hi>Tyranny,</hi> and all this meerly for the sake of <hi>One</hi> who has done his utmost indeavour to <hi>enslave</hi> and <hi>ruin</hi> us, and we have too good <hi>assurance</hi> that he would do so again whenever it should be in his power. Whether this would be a <hi>wise</hi> and <hi>commendable</hi> thing I leave to your consideration.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>If there be <hi>reason</hi> for it, tho' it be not thought <hi>wise,</hi> yet may it be <hi>just</hi> and <hi>commendable.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>And if it be not <hi>just,</hi> as I think it is not, no <hi>reason</hi> can be given for it.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>They say 'tis a <hi>wrong</hi> to another, which must not be done.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I say, 'tis no <hi>wrong</hi> to <hi>him</hi> who is in an <hi>incapacity</hi> to Govern, to <hi>obey them</hi> who can and will Govern us by our <hi>Laws,</hi> whilst he is un<g ref="char:EOLhyphen"/>der that <hi>incapacity.</hi> And he is so, not only whilst he is, as <hi>they</hi> will have it, in <hi>exile;</hi> but so long as he <hi>will not</hi> Govern according to <hi>Law.</hi> The good <hi>reason</hi> then that we have <hi>not to obey,</hi> or not to <hi>Swear</hi> to obey our <hi>present K.</hi> and <hi>Q.</hi> is this: Because we think a <hi>Legal Obe<g ref="char:EOLhyphen"/>dience,</hi> that is, <hi>Allegeance,</hi> due to <hi>Him</hi> only, to whom we are too well assured it will not be <hi>acceptable,</hi> because it is not an <hi>illegal</hi> one, or, because we think <hi>He</hi> hath something to say for a <hi>Right</hi> to Govern us, which he has declared he will not <hi>exercise</hi> but contrary to the <hi>Consti<g ref="char:EOLhyphen"/>tution</hi> on which that <hi>Right,</hi> if any, must be founded, and contrary to the <hi>welfare</hi> and <hi>happiness</hi> of his Kingdom; <hi>that is,</hi> because he claims a <hi>Right</hi> which neither <hi>God</hi> or <hi>Man</hi> ever gave him, to govern only by his own <hi>Will.</hi> All comes to this, they think he hath a <hi>Right</hi> which he will not <hi>use,</hi> and which they would <hi>give</hi> him, but he will not <hi>thank</hi> them for it; and he challenges a <hi>Right</hi> which they cannot <hi>own,</hi> and will have that yielded him, or he will have <hi>none.</hi>
+               </p>
+               <p>This let us now <hi>well consider,</hi> and the wise God direct us.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
